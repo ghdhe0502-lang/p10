@@ -1,0 +1,8 @@
+
+{
+  "name": "P10 Display Hub",
+  "description": "A smart mobile-responsive controller for ESP-driven P10 LED displays with scheduling, clock customization, bilingual support, and AI-powered message suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
